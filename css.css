@@ -1,0 +1,17 @@
+body{
+background: lightgreen;
+}
+button{
+  font-size:30px;
+  background-color: orange;
+  color: white;
+}
+#miCanvas{
+ margin-top: 15px;
+ padding-left: 30px;
+}
+p{
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
